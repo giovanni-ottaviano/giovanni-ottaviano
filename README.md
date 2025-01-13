@@ -47,7 +47,8 @@
 </p>
 
 ### 💭 &nbsp; Quote of the day
-<details open>
+<!-- <details open> -->
+<details>
     <summary>Click :point_left:</summary>
     <a href="https://github.com/piyushsuthar/github-readme-quotes">
         <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord&author=Gregg%20Easterbrook&quote=Torture%20numbers%20and%20they%20will%20confess%20to%20anything" alt="quotes card">
@@ -55,7 +56,7 @@
 </details>
 
 ### 😄 &nbsp; Joke of the day
-<details open>
+<details>
     <summary>Click :point_left:</summary>
     <a href="https://github.com/piyushsuthar/github-readme-quotes">
         <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord&author=Unknown&quote=What%27s%20a%20ghost%27s%20favourite%20data%20type%3F%0AA%20BOOlean%21" alt="joke card">
