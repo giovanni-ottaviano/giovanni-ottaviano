@@ -14,7 +14,7 @@
 - ⚡ &nbsp; Fun facts: Volleyball player, manga reader and PC Gamer
 
 
-### 🛠️ Languages and Tools
+### 🛠️ &nbsp; Languages and Tools
 <p align="center">
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"> </a>
   <a href="https://isocpp.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
@@ -46,8 +46,18 @@
   <a href="https://www.latex-project.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt="latex" width="40" height="40"/> </a> 
 </p>
 
-### 💭 Quote of the day
-*Under construction*
+### 💭 &nbsp; Quote of the day
+<details open>
+    <summary>Click :point_left:</summary>
+    <a href="https://github.com/piyushsuthar/github-readme-quotes">
+        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord&author=Gregg%20Easterbrook&quote=Torture%20numbers%20and%20they%20will%20confess%20to%20anything" alt="quotes card">
+    </a>
+</details>
 
-### 😄 Joke of the day
-*Under construction*
+### 😄 &nbsp; Joke of the day
+<details open>
+    <summary>Click :point_left:</summary>
+    <a href="https://github.com/piyushsuthar/github-readme-quotes">
+        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord&author=Unknown&quote=What%27s%20a%20ghost%27s%20favourite%20data%20type%3F%0AA%20BOOlean%21" alt="joke card">
+    </a>
+</details>
