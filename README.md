@@ -5,8 +5,8 @@
 </p>
 
 ### 🦚 &nbsp; About Me
-- 🙋‍♂️ &nbsp; My name is Giovanni and I live in Italy
-- 🔭 &nbsp; Currently working as a Data Scientist and Data Engineer
+- 🙋‍♂️ &nbsp; My name is Giovanni and I am italian (but currently leaving abroad)
+- 🔭 &nbsp; Currently attending a PhD in AI for fundamental physics at [SU](https://www.sorbonne-universite.fr/)
 - 🌱 &nbsp; Passionate about Machine Learning and AI
 - 🎓 &nbsp; Master's Degree in Theoretical Physics at [UNIMI](https://www.unimi.it/)
 - 🧠 &nbsp; Curiosity driven
